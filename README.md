@@ -22,10 +22,10 @@ This project can be built with maven using `mvn clean package`.
 ## Maven
 
 ```xml
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
+	<repository>
+	    <id>jitpack.io</id>
+	    <url>https://jitpack.io</url>
+	</repository>
 ```
 
 ```xml
