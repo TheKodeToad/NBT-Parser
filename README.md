@@ -1,7 +1,7 @@
 # NBT Parser [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)][License]
 If you would like to donate to the original project: [![Flattr this](http://img.shields.io/badge/flattr-donate-lightgrey.svg?style=flat)][Donate]
 
-Named Binary Tag (NBT) library for Java based on Graham Edgecombe's JNBT library. NBT is a tag based binary format designed to carry large amounts of binary data with smaller amounts of additional data.
+Named Binary Tag (NBT) library for Java based on flow nbt, based on Graham Edgecombe's JNBT library. NBT is a tag based binary format designed to carry large amounts of binary data with smaller amounts of additional data.
 
 ## Getting Started
 * [Examples and code snippets](https://github.com/flow/examples/tree/master/nbt)
