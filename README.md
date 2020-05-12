@@ -4,7 +4,7 @@ If you would like to donate to SpoutDev: [Donate](https://flattr.com/submit/auto
 Named Binary Tag (NBT) library for Java based on flow nbt, based on Graham Edgecombe's JNBT library. NBT is a tag based binary format designed to carry large amounts of binary data with smaller amounts of additional data.
 
 ## Getting Started
-* [Wiki](https://github.com/flow/examples/tree/master/nbt)
+* [Wiki](https://github.com/TheKodeToad/NBT-Parser/wiki)
 
 ## Source Code
 The source code can be found here on [GitHub](https://github.com/TheKodeToad/NBT-Parser). If you are using Git, use this command to clone the project:
