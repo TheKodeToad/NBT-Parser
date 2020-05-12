@@ -19,6 +19,23 @@ The following dependencies are only needed if you compiling the tests included w
 ## Building from Source
 This project can be built with maven using `mvn clean package`.
 
+## Maven
+
+```xml
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+```
+
+```xml
+	<dependency>
+	    <groupId>com.github.TheKodeToad</groupId>
+	    <artifactId>NBT-Parser</artifactId>
+	    <version>1.0.1</version>
+	</dependency>
+```
+
 ## Credits
 * [Spout](https://spout.org/) and contributors - *where we all began, and for much of the re-licensed code.*
 * All the people behind [Java](http://www.oracle.com/technetwork/java/index.html), [Maven](https://maven.apache.org/), and [Gradle](https://www.gradle.org/).
