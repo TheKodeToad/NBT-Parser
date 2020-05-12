@@ -1,4 +1,4 @@
-# Flow NBT [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)][License] [![Flattr this](http://img.shields.io/badge/flattr-donate-lightgrey.svg?style=flat)][Donate] [![Build Status](http://img.shields.io/travis/flow/nbt/develop.svg?style=flat)](https://travis-ci.org/flow/nbt) [![Coverage Status](http://img.shields.io/coveralls/flow/nbt/develop.svg?style=flat)](https://coveralls.io/r/flow/nbt)
+# Flow NBT [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)][License] [![Flattr this](http://img.shields.io/badge/flattr-donate-lightgrey.svg?style=flat)][Donate]
 
 Named Binary Tag (NBT) library for Java based on Graham Edgecombe's JNBT library. NBT is a tag based binary format designed to carry large amounts of binary data with smaller amounts of additional data.
 
