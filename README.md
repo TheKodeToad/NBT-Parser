@@ -6,6 +6,10 @@ Named Binary Tag (NBT) library for Java based on flow nbt, based on Graham Edgec
 ## Getting Started
 * [Wiki](https://github.com/TheKodeToad/NBT-Parser/wiki)
 
+## Downloads
+
+See https://github.com/TheKodeToad/NBT-Parser/releases
+
 ## Source Code
 The source code can be found here on [GitHub](https://github.com/TheKodeToad/NBT-Parser). If you are using Git, use this command to clone the project:
 
