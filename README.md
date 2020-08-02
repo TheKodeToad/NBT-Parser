@@ -44,4 +44,4 @@ This project can be built with maven using `mvn clean package`.
 * [Spout](https://spout.org/) and contributors - *where we all began, and for much of the re-licensed code.*
 * All the people behind [Java](http://www.oracle.com/technetwork/java/index.html), [Maven](https://maven.apache.org/), and [Gradle](https://www.gradle.org/).
 * TheKodeToad
-* natemort (provided region reader class file)
+* natemort (provided region reader class file that I borrowed)
